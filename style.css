@@ -1,0 +1,44 @@
+.informatica {
+height: 100px;
+background-color: deeppink;
+border-radius: 30px;
+box-shadow: 5px 5px 20px rgb(8, 5, 5,0.5);
+}
+
+.top {
+   list-style: none;
+   display: flex;
+   padding: 20px;
+   justify-content: right;
+
+}
+
+nav ul li {
+    margin: 40px;
+
+
+
+}
+
+.caixa{
+    width:300px;
+    height:600px;
+    background-color: aqua;
+    border-radius:30px;
+    box-shadow:5px 5px 20px rgba(0,0,0,0.7) ; 
+    position: relative;
+    top: 20px;
+    float: right;
+}
+
+body{
+    background-image:url(R.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu2{[
+    list-style: none;
+    font-size: x-large;
+    font-family: 'comic sans ms'
+    color:
+]
